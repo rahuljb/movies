@@ -1,0 +1,20 @@
+.body{
+background-color:WhiteSmoke;
+}
+.p2 {
+  font-family: Monaco;
+}
+.button{
+  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 12px 25px;
+    border-radius: 8px;
+
+    margin-left:35px;
+
+}
